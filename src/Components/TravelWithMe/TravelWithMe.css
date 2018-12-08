@@ -1,0 +1,25 @@
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+.container{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  height: 200px;
+  text-align: flex;
+  display: flex;
+  max-width: 100%;
+	height: auto;
+}
+
+
+.middlepane {
+  width: 50%;
+  height: 100%;
+  float: left;
+  background-color: white;
+  border-collapse: collapse;
+}
